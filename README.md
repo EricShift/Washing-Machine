@@ -1,1 +1,1 @@
-# Washing-Machine
+# Washing-Machine C program
